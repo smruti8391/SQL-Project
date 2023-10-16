@@ -1,5 +1,4 @@
-# SQL-Project
-Walmart Sales Data Analysis
+# Walmart Sales Data Analysis
 
 About-
 
@@ -70,8 +69,8 @@ Customer-
 3.What is the most common customer type?
 4.Which customer type buys the most?
 5.What is the gender of most of the customers?
-What is the gender distribution per branch?
-Which time of the day do customers give most ratings?
-Which time of the day do customers give most ratings per branch?
-Which day fo the week has the best avg ratings?
-Which day of the week has the best average ratings per branch?
+6.What is the gender distribution per branch?
+7.Which time of the day do customers give most ratings?
+11.Which time of the day do customers give most ratings per branch?
+12.Which day fo the week has the best avg ratings?
+13.Which day of the week has the best average ratings per branch?
